@@ -14,7 +14,7 @@ If you are on Linux → choose .deb or .rpm.
 
 
 
-#step 2: Install VS Code
+# Step 2:Install VS Code
 🖥 Windows
 
 Double-click the downloaded .exe file.
@@ -55,7 +55,7 @@ sudo apt --fix-broken install
 
 
 
-Step 3: Install Git (Required for Repository Work)
+# Step 3: Install Git (Required for Repository Work)
 
 To use repositories, you also need Git installed.
 
