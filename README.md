@@ -1,5 +1,5 @@
 # Visual-Studio-Code-VS-Code-
-Step 1: Download VS Code
+ # Step 1: Download VS Code
 
 Open your browser and go to:
 👉 https://code.visualstudio.com/
@@ -14,7 +14,7 @@ If you are on Linux → choose .deb or .rpm.
 
 
 
-tep 2: Install VS Code
+#step 2: Install VS Code
 🖥 Windows
 
 Double-click the downloaded .exe file.
